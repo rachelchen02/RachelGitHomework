@@ -1,3 +1,3 @@
 # RachelGitHomework
-** Hello
+## Hello
 I edited the ReadMe folder. 
